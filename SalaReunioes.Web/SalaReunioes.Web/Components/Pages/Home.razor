@@ -1,7 +1,111 @@
 ﻿@page "/"
+@using Microsoft.EntityFrameworkCore
+@using SalaReunioes.Infrastructure.Data
+@using SalaReunioes.Domain.Entities
+@inject AppDbContext DbContext
+@inject ISnackbar Snackbar
 
-<PageTitle>Home</PageTitle>
+<MudContainer MaxWidth="MaxWidth.ExtraLarge">
+    <div class="d-flex align-center mb-5">
+        <MudText Typo="Typo.h4" Color="Color.Primary"><b>Quadro de Agendamentos</b></MudText>
+        <MudSpacer />
+        @if (Salas.Any())
+        {
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" StartIcon="@Icons.Material.Filled.Add" OnClick="NovoAgendamento">
+                Novo Agendamento
+            </MudButton>
+        }
+        else
+        {
+            <MudButton Variant="Variant.Outlined" Color="Color.Secondary" OnClick="GerarDadosTeste">
+                Gerar Salas de Teste
+            </MudButton>
+        }
+    </div>
 
-<h1>Hello, world!</h1>
+    <MudPaper Elevation="2" Class="pa-0 overflow-hidden" Style="border: 1px solid #e0e0e0;">
+        @if (!Salas.Any())
+        {
+            <div class="pa-10 text-center">
+                <MudIcon Icon="@Icons.Material.Filled.Info" Size="Size.Large" Color="Color.Info" />
+                <MudText Typo="Typo.h6">Nenhuma sala encontrada no sistema.</MudText>
+                <MudText>Clique em "Gerar Salas de Teste" para começar.</MudText>
+            </div>
+        }
+        else
+        {
+            @* Grade Dinâmica baseada no número de salas *@
+            <div style="display: grid; grid-template-columns: 80px repeat(@Salas.Count, 1fr);">
+                
+                <div class="header-cell">Hora</div>
+                @foreach (var sala in Salas)
+                {
+                    <div class="header-cell text-center">
+                        <MudText Typo="Typo.subtitle1"><b>@sala.Nome</b></MudText>
+                        <MudText Typo="Typo.caption">Capacidade: @sala.Capacidade</MudText>
+                    </div>
+                }
 
-Welcome to your new app.
+                @for (int h = 8; h <= 18; h++)
+                {
+                    var hora = h;
+                    <div class="time-cell">@hora:00</div>
+                    
+                    @foreach (var sala in Salas)
+                    {
+                        <div class="slot-cell" @onclick="@(() => SelecionarHorario(sala, hora))">
+                            @foreach (var agendamento in sala.Agendamentos.Where(a => a.Inicio.Hour == hora))
+                            {
+                                <div class="appointment-card" style="background-color: @agendamento.CorHex;">
+                                    <b>@agendamento.Titulo</b><br/>
+                                    <small>@agendamento.Inicio.ToString("HH:mm") - @agendamento.Fim.ToString("HH:mm")</small>
+                                </div>
+                            }
+                        </div>
+                    }
+                }
+            </div>
+        }
+    </MudPaper>
+</MudContainer>
+
+@code {
+    private List<Sala> Salas = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await CarregarSalas();
+    }
+
+    private async Task CarregarSalas()
+    {
+        Salas = await DbContext.Salas.Include(s => s.Agendamentos).OrderBy(s => s.Nome).ToListAsync();
+    }
+
+    private void SelecionarHorario(Sala sala, int hora)
+    {
+        Snackbar.Add($"Horário selecionado: {sala.Nome} às {hora}:00", Severity.Info);
+    }
+
+    private void NovoAgendamento() => Snackbar.Add("Abrindo formulário...", Severity.Success);
+
+    private async Task GerarDadosTeste()
+    {
+        DbContext.Salas.AddRange(
+            new Sala { Nome = "Sala 01", Capacidade = 10 },
+            new Sala { Nome = "Sala 02", Capacidade = 06 },
+            new Sala { Nome = "Auditório", Capacidade = 50 }
+        );
+        await DbContext.SaveChangesAsync();
+        await CarregarSalas();
+        Snackbar.Add("Salas criadas com sucesso!", Severity.Success);
+    }
+}
+
+<style>
+    .header-cell { background: #f5f5f5; padding: 16px; border-bottom: 2px solid #ddd; border-right: 1px solid #ddd; }
+    .time-cell { background: #fafafa; padding: 20px 10px; text-align: center; border-bottom: 1px solid #eee; border-right: 1px solid #ddd; font-weight: bold; }
+    .slot-cell { background: white; height: 80px; border-bottom: 1px solid #eee; border-right: 1px solid #eee; position: relative; cursor: pointer; }
+    .slot-cell:hover { background: #f0f7ff; }
+    .appointment-card { position: absolute; top: 4px; left: 4px; right: 4px; bottom: 4px; border-radius: 4px; color: white; padding: 6px; font-size: 0.8rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1); z-index: 5; }
+</style>

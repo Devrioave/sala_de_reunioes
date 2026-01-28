@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "SalaReunioes.Web.Client",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-EhxmRR+4DJFJfBHUUELmrMr8fktAek2S4LDsvNpp5aI=",
+    "hash": "sha256-au9uT1fPbq+IJiYYn9w/726p7AhGOKGshCcmX2pK9gY=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.87vtjjdetb.js"
@@ -1260,28 +1260,28 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "SalaReunioes.Domain.wasm",
-        "name": "SalaReunioes.Domain.vf5cg3aehv.wasm",
-        "integrity": "sha256-dT2SgfPOAb7dkZTlyw4PxwlHC1jTahc4qNsOprG5dTU=",
+        "name": "SalaReunioes.Domain.cb9foabymw.wasm",
+        "integrity": "sha256-GHPD0atnd2fh6BKjHU8ZWzwjEd/Y5Xza057LYm1LJco=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "SalaReunioes.Web.Client.wasm",
-        "name": "SalaReunioes.Web.Client.nd8etdyppv.wasm",
-        "integrity": "sha256-6xKlj/eWc3NEQSWbL56Szmps9FSCYqyJFLVyK3e5rVo=",
+        "name": "SalaReunioes.Web.Client.di2yshma14.wasm",
+        "integrity": "sha256-y16KFguDYLnvb2NFWNfMs1n+DjGvwJEJjZc+DFhf76k=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "SalaReunioes.Domain.pdb",
-        "name": "SalaReunioes.Domain.5h96b09hw2.pdb",
-        "integrity": "sha256-eTCgJoU9jO9A59GzUDF2MpHW3K6HexVr9uONxoUgcYk=",
+        "name": "SalaReunioes.Domain.vpflntbvfg.pdb",
+        "integrity": "sha256-LUJQAl7KW9Cp0y0Ld/LW04ZpqSF990Am6R/dCJquomY=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "SalaReunioes.Web.Client.pdb",
-        "name": "SalaReunioes.Web.Client.mehhp9j48j.pdb",
-        "integrity": "sha256-ouAnbky1pSSfBebMta44Q3BiC3dONDt2rxHMQxMG96I=",
+        "name": "SalaReunioes.Web.Client.m3yc94hjcr.pdb",
+        "integrity": "sha256-Xr/OnxBEuYnP1bKipbN+lusDTqvWQvYCJVw0vi8D1Hc=",
         "cache": "force-cache"
       }
     ],
