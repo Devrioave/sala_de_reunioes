@@ -1,10 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using SalaReunioes.Infrastructure.Data;
+using SalaReunioes.Infrastructure.Services; // Adicione este using
 using SalaReunioes.Web.Client.Pages;
 using SalaReunioes.Web.Components;
-using MudBlazor.Services; // Namespace necessário
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // 1. Configurar a Connection String
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") 
@@ -14,10 +16,13 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 
-// 3. Registrar os serviços do MudBlazor (DEVE SER ANTES DO BUILD)
+// 3. REGISTRAR O SERVIÇO DE AGENDAMENTO (O comando que você tentou rodar no terminal)
+builder.Services.AddScoped<AgendamentoService>();
+
+// 4. Registrar os serviços do MudBlazor
 builder.Services.AddMudServices();
 
-// 4. Adicionar serviços do Blazor
+// 5. Adicionar serviços do Blazor
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
@@ -37,9 +42,7 @@ else
 
 app.UseStatusCodePagesWithReExecute("/not-found", createScopeForStatusCodePages: true);
 app.UseHttpsRedirection();
-
 app.UseAntiforgery();
-
 app.MapStaticAssets();
 
 app.MapRazorComponents<App>()

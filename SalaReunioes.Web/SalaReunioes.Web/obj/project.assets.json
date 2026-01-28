@@ -556,6 +556,7 @@
           }
         },
         "build": {
+          "build/MudBlazor.targets": {},
           "buildTransitive/MudBlazor.props": {}
         },
         "buildMultiTargeting": {
@@ -2416,6 +2417,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 10.0.2",
       "Microsoft.EntityFrameworkCore >= 10.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 10.0.2",
+      "MudBlazor >= 7.15.0",
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0",
       "SalaReunioes.Domain >= 1.0.0",
       "SalaReunioes.Infrastructure >= 1.0.0",
       "SalaReunioes.Web.Client >= 1.0.0"
@@ -2493,6 +2496,14 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.2, )"
+          },
+          "MudBlazor": {
+            "target": "Package",
+            "version": "[7.15.0, )"
+          },
+          "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "target": "Package",
+            "version": "[10.0.0, )"
           }
         },
         "imports": [

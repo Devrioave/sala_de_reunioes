@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalaReunioes.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f5f41d9cd8e1f076a75c3492ed6da8de175efc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fba659938b752cb6ff013aafa55ce01bd4a629b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalaReunioes.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalaReunioes.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
