@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/SalaReunioes.Web/">
+    <Project Path="SalaReunioes.Web/SalaReunioes.Web.Client/SalaReunioes.Web.Client.csproj" />
+    <Project Path="SalaReunioes.Web/SalaReunioes.Web/SalaReunioes.Web.csproj" />
+  </Folder>
+  <Project Path="SalaReunioes.Domain/SalaReunioes.Domain.csproj" />
+  <Project Path="SalaReunioes.Infrastructure/SalaReunioes.Infrastructure.csproj" />
+</Solution>
