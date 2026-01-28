@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SalaReunioes.Infrastructure.Data;
-using SalaReunioes.Infrastructure.Services; // Adicione este using
+using SalaReunioes.Infrastructure.Services;
 using SalaReunioes.Web.Client.Pages;
 using SalaReunioes.Web.Components;
 using MudBlazor.Services;
