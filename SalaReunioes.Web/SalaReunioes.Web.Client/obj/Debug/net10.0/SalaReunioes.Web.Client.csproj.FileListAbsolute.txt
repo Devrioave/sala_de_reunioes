@@ -19,6 +19,8 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.nn19foc92m.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.94nfa9nm1s.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.ky7o0248s6.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.5map5kd04b.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Localization.nx0z2f3xfv.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.j3u8ouhzz6.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Logging.bypfn3k8np.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Options.ConfigurationExtensions.wtnkcgjgd7.wasm
@@ -31,10 +33,11 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.VisualBasic.b99k7uyg87.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Win32.Primitives.vfvkvgphtd.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Win32.Registry.i9dc47z9na.wasm
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.odtd54n6ew.wasm
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.stw02a1tbd.pdb
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.6siy5igwz3.pdb
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.gidlot49oa.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\MudBlazor.xcgdsu1w4u.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.5h96b09hw2.pdb
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.vf5cg3aehv.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.mehhp9j48j.pdb
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.nd8etdyppv.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.AppContext.bkfrse7thl.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Buffers.pd2t0nt2si.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Collections.8ve53xakwt.wasm
@@ -270,7 +273,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Xml.XPath.XDocument.izzc2z6s0o.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.cc45vjr1b8.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Private.Xml.Linq.qxsd8cyg4g.wasm.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.odtd54n6ew.wasm.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.vf5cg3aehv.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.Channels.da7p40kvmn.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Data.Common.b6d83kqs8n.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.ObjectModel.8hcxxdqep0.wasm.gz
@@ -293,7 +296,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Globalization.Extensions.7h3suxrxrx.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Win32.Registry.i9dc47z9na.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.6siy5igwz3.pdb.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.mehhp9j48j.pdb.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.Tasks.Extensions.3mxrn1z0oz.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Net.NetworkInformation.ejghhwohxz.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Data.gyfzzp3gzr.wasm.gz
@@ -354,7 +357,9 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.ThreadPool.sy8oxhg0km.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Text.Json.eh7cecjlta.wasm.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Localization.nx0z2f3xfv.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Xml.XmlDocument.3z9ye8hrig.wasm.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.5map5kd04b.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Security.Cryptography.Encoding.lt818tlbpd.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.Options.ConfigurationExtensions.wtnkcgjgd7.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Transactions.444brye6a0.wasm.gz
@@ -363,7 +368,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Formats.Tar.c4dnekfeam.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.9ruf9isj5v.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.sg5289qtzr.wasm.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.stw02a1tbd.pdb.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Domain.5h96b09hw2.pdb.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Private.DataContractSerialization.ed335v31ay.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.IO.IsolatedStorage.htezbpmji6.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.7qg6cckq68.wasm.gz
@@ -382,7 +387,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Globalization.4myqtalz7l.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.JSInterop.x028qg75kb.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.irlczz6hcu.wasm.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.gidlot49oa.wasm.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SalaReunioes.Web.Client.nd8etdyppv.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Net.WebSockets.i2qoufdz8d.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Diagnostics.TraceSource.aondpdvx6i.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Security.Claims.rj92m02jvk.wasm.gz
@@ -416,6 +421,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Diagnostics.Process.16sllnulcp.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.pzgs7u0opi.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Runtime.Loader.ksfzm5bevd.wasm.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\MudBlazor.xcgdsu1w4u.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.IO.Compression.fxfsv8yqh3.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\System.Threading.Tasks.Parallel.9qrcxjtyru.wasm.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.nn19foc92m.wasm.gz
@@ -448,6 +454,8 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Localization.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Logging.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Options.dll
@@ -456,6 +464,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.Extensions.Validation.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.JSInterop.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\MudBlazor.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.CSharp.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.VisualBasic.Core.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\bin\Debug\net10.0\Microsoft.VisualBasic.dll
@@ -668,6 +677,8 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.FileProviders.Abstractions.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.FileProviders.Physical.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.FileSystemGlobbing.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Localization.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Localization.Abstractions.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Logging.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Logging.Abstractions.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Options.wasm
@@ -676,6 +687,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.Extensions.Validation.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.JSInterop.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\MudBlazor.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.CSharp.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.VisualBasic.Core.wasm
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\webcil\Microsoft.VisualBasic.wasm
@@ -879,6 +891,8 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\yvo5i25g7l-{0}-nn19foc92m-nn19foc92m.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\05vv67upnr-{0}-94nfa9nm1s-94nfa9nm1s.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\7vab24reml-{0}-ky7o0248s6-ky7o0248s6.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\oqketheqqt-{0}-nx0z2f3xfv-nx0z2f3xfv.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\owtmp8o8h0-{0}-5map5kd04b-5map5kd04b.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\qh5iyykvtw-{0}-bypfn3k8np-bypfn3k8np.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\qfm26abya3-{0}-j3u8ouhzz6-j3u8ouhzz6.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\n01ll1ud4u-{0}-moch3gvzt4-moch3gvzt4.gz
@@ -887,6 +901,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\kl6192f7u4-{0}-sjdijf10qc-sjdijf10qc.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\svtw2xfnel-{0}-x028qg75kb-x028qg75kb.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\9jec2xh7p3-{0}-gpkw9vy0ln-gpkw9vy0ln.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\yc8qd8u94m-{0}-xcgdsu1w4u-xcgdsu1w4u.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\0mkrimay0e-{0}-3bqyx3jy31-3bqyx3jy31.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\sisya6s6tc-{0}-0gp3r8s9ux-0gp3r8s9ux.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\qf3y6zcvow-{0}-b99k7uyg87-b99k7uyg87.gz
@@ -1067,11 +1082,11 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\cuewk1a89i-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\gjcb48ut4u-{0}-tptq2av103-tptq2av103.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\wlb0sv3ozf-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\a07z5rd4yo-{0}-odtd54n6ew-odtd54n6ew.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\pspvut7sip-{0}-stw02a1tbd-stw02a1tbd.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\t90t95vpzd-{0}-gidlot49oa-gidlot49oa.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\d03muxam01-{0}-6siy5igwz3-6siy5igwz3.gz
-C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\of4h5wvsuj-{0}-mlhl9z3fe2-mlhl9z3fe2.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\a07z5rd4yo-{0}-vf5cg3aehv-vf5cg3aehv.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\pspvut7sip-{0}-5h96b09hw2-5h96b09hw2.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\t90t95vpzd-{0}-nd8etdyppv-nd8etdyppv.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\d03muxam01-{0}-mehhp9j48j-mehhp9j48j.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\compressed\of4h5wvsuj-{0}-4zj4vh6n3c-4zj4vh6n3c.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web.Client\obj\Debug\net10.0\staticwebassets.development.json

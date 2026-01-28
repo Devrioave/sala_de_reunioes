@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "SalaReunioes.Web.Client",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-IYNO85udArc07eqeEKyUrELMlXFvC+N/yzWwft/BvKk=",
+    "hash": "sha256-EhxmRR+4DJFJfBHUUELmrMr8fktAek2S4LDsvNpp5aI=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.87vtjjdetb.js"
@@ -173,6 +173,18 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "cache": "force-cache"
       },
       {
+        "virtualPath": "Microsoft.Extensions.Localization.wasm",
+        "name": "Microsoft.Extensions.Localization.nx0z2f3xfv.wasm",
+        "integrity": "sha256-hcJFVGS1x8m5ZeBhvyIEBqYSQKIzBLnbw77jq3TNVmA=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Microsoft.Extensions.Localization.Abstractions.wasm",
+        "name": "Microsoft.Extensions.Localization.Abstractions.5map5kd04b.wasm",
+        "integrity": "sha256-/cbKro/iHTt02hewrByb6oqdeUsxxfFAyRKKr7GpBNI=",
+        "cache": "force-cache"
+      },
+      {
         "virtualPath": "Microsoft.Extensions.Logging.wasm",
         "name": "Microsoft.Extensions.Logging.bypfn3k8np.wasm",
         "integrity": "sha256-3SsNpwbnHYzH54P6la4aibD1sewVEBOjWFPya2+okRc=",
@@ -218,6 +230,12 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "virtualPath": "Microsoft.JSInterop.WebAssembly.wasm",
         "name": "Microsoft.JSInterop.WebAssembly.gpkw9vy0ln.wasm",
         "integrity": "sha256-LCoHxVZxWAeOxp2E4m37JX7jlqP3yMZzEGKk1sdZGB8=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "MudBlazor.wasm",
+        "name": "MudBlazor.xcgdsu1w4u.wasm",
+        "integrity": "sha256-74cGeJMX9xiSEe4+ufSsWPNCtw3wdr+1zSRTSmv1VWc=",
         "cache": "force-cache"
       },
       {
@@ -1242,28 +1260,28 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "SalaReunioes.Domain.wasm",
-        "name": "SalaReunioes.Domain.odtd54n6ew.wasm",
-        "integrity": "sha256-/HrysvFDE8ZVvCzAnnXlKteDjkIu2KbdB76NrQm5DSg=",
+        "name": "SalaReunioes.Domain.vf5cg3aehv.wasm",
+        "integrity": "sha256-dT2SgfPOAb7dkZTlyw4PxwlHC1jTahc4qNsOprG5dTU=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "SalaReunioes.Web.Client.wasm",
-        "name": "SalaReunioes.Web.Client.gidlot49oa.wasm",
-        "integrity": "sha256-WJzI/hTWPwiAWE0wxFhU7rRYWlo78MBdfq5c+MuU3ww=",
+        "name": "SalaReunioes.Web.Client.nd8etdyppv.wasm",
+        "integrity": "sha256-6xKlj/eWc3NEQSWbL56Szmps9FSCYqyJFLVyK3e5rVo=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "SalaReunioes.Domain.pdb",
-        "name": "SalaReunioes.Domain.stw02a1tbd.pdb",
-        "integrity": "sha256-MKBJC+WUsUZ+yGq27933y+xyyDjlyCw9Z0TPEnxOyCY=",
+        "name": "SalaReunioes.Domain.5h96b09hw2.pdb",
+        "integrity": "sha256-eTCgJoU9jO9A59GzUDF2MpHW3K6HexVr9uONxoUgcYk=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "SalaReunioes.Web.Client.pdb",
-        "name": "SalaReunioes.Web.Client.6siy5igwz3.pdb",
-        "integrity": "sha256-ar8P76f5ph+F9LvLeNE5dztX6PqPpCG6WTr5LGEEmD0=",
+        "name": "SalaReunioes.Web.Client.mehhp9j48j.pdb",
+        "integrity": "sha256-ouAnbky1pSSfBebMta44Q3BiC3dONDt2rxHMQxMG96I=",
         "cache": "force-cache"
       }
     ],

@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using SalaReunioes.Infrastructure.Data; // Se o erro CS0234 persistir aqui, siga o passo 2
 using SalaReunioes.Web.Client.Pages;
 using SalaReunioes.Web.Components;
+using MudBlazor.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -44,3 +45,5 @@ app.MapRazorComponents<App>()
     .AddAdditionalAssemblies(typeof(SalaReunioes.Web.Client._Imports).Assembly);
 
 app.Run();
+
+builder.Services.AddMudServices();

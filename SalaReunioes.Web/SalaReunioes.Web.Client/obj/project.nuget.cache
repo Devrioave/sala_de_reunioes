@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5x3zm87HP/k=",
+  "dgSpecHash": "2ZMZ50VbNS4=",
   "success": true,
   "projectFilePath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.2\\microsoft.extensions.fileproviders.abstractions.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.2\\microsoft.extensions.fileproviders.physical.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.2\\microsoft.extensions.filesystemglobbing.10.0.2.nupkg.sha512",
+    "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.localization\\8.0.8\\microsoft.extensions.localization.8.0.8.nupkg.sha512",
+    "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.8\\microsoft.extensions.localization.abstractions.8.0.8.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.logging\\10.0.2\\microsoft.extensions.logging.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.extensions.options\\10.0.2\\microsoft.extensions.options.10.0.2.nupkg.sha512",
@@ -35,6 +37,7 @@
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.2\\microsoft.jsinterop.webassembly.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.2\\microsoft.net.sdk.webassembly.pack.10.0.2.nupkg.sha512",
+    "C:\\Users\\DaviBarbosa\\.nuget\\packages\\mudblazor\\7.15.0\\mudblazor.7.15.0.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\10.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.10.0.2.nupkg.sha512"
   ],
   "logs": []

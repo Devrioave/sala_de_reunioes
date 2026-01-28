@@ -40,6 +40,7 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Deb
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\MudBlazor.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Npgsql.dll
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
@@ -139,6 +140,8 @@ C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Deb
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\scopedcss\bundle\SalaReunioes.Web.styles.css
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\scopedcss\projectbundle\SalaReunioes.Web.bundle.scp.css
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\compressed\tzxjg6is5z-{0}-mhumzvqd1g-mhumzvqd1g.gz
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\compressed\0wz98yz2xy-{0}-rnojub5shy-rnojub5shy.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\compressed\f9o902iofb-{0}-99zm1jdh75-99zm1jdh75.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\compressed\ql64mdht7c-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Web\SalaReunioes.Web\obj\Debug\net10.0\compressed\b8a02tox70-{0}-bqjiyaj88i-bqjiyaj88i.gz
