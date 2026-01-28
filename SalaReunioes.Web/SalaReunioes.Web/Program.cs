@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using SalaReunioes.Infrastructure.Data; // Se o erro CS0234 persistir aqui, siga o passo 2
 using SalaReunioes.Web.Client.Pages;
 using SalaReunioes.Web.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// 1. Configurar a Connection String (Lida do appsettings.json)
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") 
+    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+// 2. Registrar o DbContext da camada de Infrastructure
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseNpgsql(connectionString));
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -18,15 +28,16 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Error", createScopeForErrors: true);
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
 app.UseStatusCodePagesWithReExecute("/not-found", createScopeForStatusCodePages: true);
 app.UseHttpsRedirection();
 
 app.UseAntiforgery();
 
 app.MapStaticAssets();
+
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
