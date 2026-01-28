@@ -1,0 +1,12 @@
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\bin\Debug\net10.0\SalaReunioes.Domain.deps.json
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\bin\Debug\net10.0\SalaReunioes.Domain.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\bin\Debug\net10.0\SalaReunioes.Domain.pdb
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.AssemblyInfoInputs.cache
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.AssemblyInfo.cs
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.sourcelink.json
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\refint\SalaReunioes.Domain.dll
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\SalaReunioes.Domain.pdb
+C:\Users\DaviBarbosa\Dev\sala_reunioes\SalaReunioes.Domain\obj\Debug\net10.0\ref\SalaReunioes.Domain.dll

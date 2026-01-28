@@ -821,6 +821,16 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "SalaReunioes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
+        }
       }
     }
   },
@@ -2640,12 +2650,18 @@
         "system.composition.typedparts.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "SalaReunioes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SalaReunioes.Domain/SalaReunioes.Domain.csproj",
+      "msbuildProject": "../SalaReunioes.Domain/SalaReunioes.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Microsoft.EntityFrameworkCore.Design >= 10.0.2",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 10.0.0",
+      "SalaReunioes.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2672,7 +2688,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Domain\\SalaReunioes.Domain.csproj": {
+              "projectPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Domain\\SalaReunioes.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

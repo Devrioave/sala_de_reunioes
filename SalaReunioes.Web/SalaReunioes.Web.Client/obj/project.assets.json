@@ -535,6 +535,16 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
+      },
+      "SalaReunioes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
+        }
       }
     },
     "net10.0/browser-wasm": {
@@ -1070,6 +1080,16 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "SalaReunioes.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalaReunioes.Domain.dll": {}
         }
       }
     }
@@ -1940,6 +1960,11 @@
         "tools/net472/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net472/Microsoft.NET.WebAssembly.Webcil.dll"
       ]
+    },
+    "SalaReunioes.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../SalaReunioes.Domain/SalaReunioes.Domain.csproj",
+      "msbuildProject": "../../SalaReunioes.Domain/SalaReunioes.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1948,7 +1973,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 10.0.2",
       "Microsoft.DotNet.HotReload.WebAssembly.Browser >= 10.0.102",
       "Microsoft.NET.ILLink.Tasks >= 10.0.2",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 10.0.2"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 10.0.2",
+      "SalaReunioes.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1975,7 +2001,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Domain\\SalaReunioes.Domain.csproj": {
+              "projectPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Domain\\SalaReunioes.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
