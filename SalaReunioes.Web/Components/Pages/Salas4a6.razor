@@ -1,0 +1,15 @@
+@page "/salas/4-6"
+@inject AgendamentoService AgendamentoService
+
+<MudText Typo="Typo.h4" Class="mb-4">Salas 4 a 6</MudText>
+
+@code {
+    private List<Sala>? salasFiltradas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var todas = await AgendamentoService.ObterSalasEAgendamentosAsync();
+        // Pula as 3 primeiras e pega as próximas 3
+        salasFiltradas = todas.OrderBy(s => s.Nome).Skip(3).Take(3).ToList();
+    }
+}
