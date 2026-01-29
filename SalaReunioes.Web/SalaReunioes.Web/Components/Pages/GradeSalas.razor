@@ -1,0 +1,19 @@
+@using SalaReunioes.Domain.Entities
+@using SalaReunioes.Infrastructure.Services
+
+@inject AgendamentoService AgendamentoService
+
+<MudGrid>
+    @foreach (var sala in Salas)
+    {
+        <MudItem xs="12" md="4">
+            <MudPaper Class="pa-4">
+                <MudText Typo="Typo.h6">@sala.Nome</MudText>
+                </MudPaper>
+        </MudItem>
+    }
+</MudGrid>
+
+@code {
+    [Parameter] public List<Sala> Salas { get; set; } = new();
+}

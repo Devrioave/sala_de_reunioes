@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj": {}
+    "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj": {}
   },
   "projects": {
     "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Domain\\SalaReunioes.Domain.csproj": {
@@ -337,14 +337,14 @@
         }
       }
     },
-    "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj": {
+    "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
+        "projectUniqueName": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
         "projectName": "SalaReunioes.Web.Client",
-        "projectPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
+        "projectPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
         "packagesPath": "C:\\Users\\DaviBarbosa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\obj\\",
+        "outputPath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DaviBarbosa\\AppData\\Roaming\\NuGet\\NuGet.Config"

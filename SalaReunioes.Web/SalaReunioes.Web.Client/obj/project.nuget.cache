@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZMZ50VbNS4=",
+  "dgSpecHash": "2WCiPcRxido=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\SalaReunioes.Web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
+  "projectFilePath": "C:\\Users\\DaviBarbosa\\Dev\\sala_reunioes\\salaReunioes.web\\SalaReunioes.Web.Client\\SalaReunioes.Web.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512",
     "C:\\Users\\DaviBarbosa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.2\\microsoft.aspnetcore.authorization.10.0.2.nupkg.sha512",
